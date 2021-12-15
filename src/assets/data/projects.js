@@ -12,8 +12,7 @@ const projects = [
   {
     id: uuidv4(),
     name: 'Freak - Your AI Fitness Assistant App',
-    desc:
-      'FREAK APP is primarily intended to boost a persons immune system, which is critical in the Covid 19 pandemic that the globe is currently dealing with.The app aims to improve people physical and mental health in order to boost their immune systems and overall well-being.',
+    desc: 'FREAK APP is primarily intended to boost a persons immune system, which is critical in the Covid 19 pandemic that the globe is currently dealing with.The app aims to improve people physical and mental health in order to boost their immune systems and overall well-being.',
     img: Freak,
     link: 'https://github.com/RuchikaSuryawanshi7/AI-Fitness_Assistant',
   },
