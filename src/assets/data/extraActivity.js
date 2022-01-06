@@ -7,22 +7,22 @@ const extraActivity = [
   {
     id: 2,
     name: 'WomenTech Network',
-    desc: 'Really amazing communication skills. Always understand what I am trying to achieve. Also, his work is really amazing. Do really high-quality work.',
+    desc: 'WomenTech Network is a community that promotes gender diversity in tech and connects talented and skilled professionals with top companies and leading Technologies.',
   },
   {
     id: 3,
     name: 'Young Engine',
-    desc: 'Really hard-working person. Deliver the work as promised. Planning to work more with this person.',
+    desc: 'Young Engine is a one-stop solution that handles everything from instant virality to Brand Goodwill Management by mobilizing an army of 50,000+ nano student influencers of India.',
   },
   {
     id: 4,
     name: 'Rotaract Club',
-    desc: 'Really hard-working person. Deliver the work as promised. Planning to work more with this person.',
+    desc: 'Rotaract Club of Sunrise Pune is a Youth Organisation which focuses on Education and Professional development and Social service.',
   },
   {
     id: 5,
     name: 'Women Who Code',
-    desc: 'Really hard-working person. Deliver the work as promised. Planning to work more with this person.',
+    desc: 'Girls Who Code is an international non-profit organisation working to close the gender gap in technology by teaching girls computer science, bravery, and sisterhood.',
   },
 ];
 export default extraActivity;
