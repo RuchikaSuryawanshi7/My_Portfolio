@@ -2,7 +2,7 @@ const extraActivity = [
   {
     id: 1,
     name: 'Google Developers Club',
-    desc: 'Google Developer Student Clubs (GDSC) are student-run clubs for anyone interested in Google developer technology. It encourages students from various undergraduate and graduate degrees who want to advance their careers as software developers. Students at GDSC are encouraged to expand their knowledge in a peer-to-peer learning environment while also developing solutions for local businesses and the community.',
+    desc: 'Google Developer Student Clubs (GDSC) are student-run clubs for anyone interested in Google developer technology. Students are encouraged to expand their knowledge in a peer-to-peer learning environment. GDSC clubs also develop solutions for local businesses and the community.',
   },
   {
     id: 2,
